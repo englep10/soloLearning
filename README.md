@@ -23,6 +23,14 @@ Did successfully install react-native and get a better sense of what is required
 #ES6
 Learned a little bit about what ES6 is and its role in an application. It seems to have a lot of the same lanuage as Ruby & Rails
 
-
-
 https://github.com/creationix/nvm#installation
+
+#Why did you choose this subject?
+Was watching this video that was part of the React Lesson.
+#How were you first made aware of it?
+https://www.youtube.com/watch?v=KVZ-P-ZI6W4&feature=youtu.be&t=510
+^^^
+{What problem does it solve?
+How does it solve the problem (conceptually)?
+Why does one use it?}
+
