@@ -29,8 +29,15 @@ https://github.com/creationix/nvm#installation
 Was watching this video that was part of the React Lesson.
 #How were you first made aware of it?
 https://www.youtube.com/watch?v=KVZ-P-ZI6W4&feature=youtu.be&t=510
-^^^
-{What problem does it solve?
-How does it solve the problem (conceptually)?
-Why does one use it?}
+
+1) What problem does it solve?
+2) How does it solve the problem (conceptually)
+3) Why does one use it?
+This video does a fantastic job of answering those three questions.
+
+#What are 3 interview questions one might be asked about this technology?
+What are some fundamental differences when building a native app versus building a web app?
+Do you think it would be possible to pair a native-react app with backbone?
+What are some advantages to using react-js to build a native app compared to using a language like swift?
+
 
